@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+#inputs{
+ 
+   
+    resize: none;
+
+}
+
+
+
+
+#limpiar{
+
+color: white;
+
+}
+
+#btn:required{
+    background-color: transparent;
+    color: white;
+}
+
+
+
+.card{
+
+    background-color: aqua;
+    width: 30%;
+
+
+
+}
